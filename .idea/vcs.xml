@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterLab" vcs="Git" />
   </component>
 </project>
